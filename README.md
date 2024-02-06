@@ -52,7 +52,7 @@ Vite is a Open-source JavaScript module bundler. It helps to create React Projec
   - Step-03 : Select JavaScript or the combination in which you are interest to do the Project.
 
 But at this stage we don't hava access of "Node-module folder". So, for installing the folder run the below command :- 
-                :: npm i  {i stands for Install}
+- npm i  {i stands for Install}
 - Go Live       :: npm run dev {see more command in package.json files}
 
 Here, we are ready to Create React project.
