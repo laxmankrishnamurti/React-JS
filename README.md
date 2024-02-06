@@ -25,8 +25,8 @@ In case of React, it is written in JavaScript so it simplifies the development o
 - Initially, React's Components are typically "Class-based". But, React is totally based on Functions. 
 
 - React offers more Attachment.
-  - (1) React-DOM     {For Web-Applications}
-  - (2) React-Nativ   {For Android-Applications}
+  - React-DOM     {For Web-Applications}
+  - React-Nativ   {For Android-Applications}
 
 # Requirement / Prerequisits
 
