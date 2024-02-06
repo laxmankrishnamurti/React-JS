@@ -20,13 +20,13 @@ In case of React, it is written in JavaScript so it simplifies the development o
 # Interesting Fact about React
 
 - React is build by Facebook. 
-- Initially, many the Tech community took it as a joke. But, this war only a mistake. Now, we all are know that how React is Popular in today's world!
+- Initially, many the Tech community took it as a joke. But, this was only a mistake. Now, we all are know that how React is Popular in today's world!
 - React was created when both UI & State(variables) dosen't  syncing together. This is popularly known as "Fantom Message Problem"
-- Initially, React's Components are typically "Class-based". But, React is totally based on Functions. 
+- Initially, React's Components are typically "Class-based". But, now React is totally based on Functions. 
 
 - React offers more Attachment.
   - React-DOM     {For Web-Applications}
-  - React-Nativ   {For Android-Applications}
+  - React-Native   {For Android-Applications}
 
 # Requirement / Prerequisits
 
