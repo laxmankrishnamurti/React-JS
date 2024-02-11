@@ -6,8 +6,6 @@ function customRender(reactElement, container){
 
     container.appendChild(domElement); */
 
-    console.log('function is working');
-
     const domElement = document.createElement(reactElement.type);
     domElement.innerHTML = reactElement.children;
 
