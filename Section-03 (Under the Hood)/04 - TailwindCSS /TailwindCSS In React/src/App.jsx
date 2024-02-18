@@ -1,11 +1,10 @@
-// import './App.css'
-// // import './index.css'
+import Card from "../Components/Card"
 
 function App() {
 
   return (
     <>
-      <div>
+      <div className="block">
         <nav className="float-right mt-6">
           <ul>
             <li className="inline m-4 p-4 bg-slate-500 cursor-pointer rounded">Home</li>
@@ -16,8 +15,9 @@ function App() {
           </ul>
         </nav>
       </div>
+      <Card btnText='Add' />
+      <Card btnText='Subtract' />
     </>
   )
 }
-
 export default App
