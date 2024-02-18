@@ -37,3 +37,5 @@ Fibre is the heart code structure of React. "Fiber" refers to a set of internal 
 - React Fiber is a reimplementation of the core algorithm used by React to reconcile and render components.
 - React Fiber introduces the concept of priorities for different types of updates. It allows React to prioritize and schedule updates based on their importance.
 - Higher-priority updates, such as user interactions, can be processed with higher priority, ensuring a more responsive user experience.
+
+To be more precise, React Fiber is an internal reimplementation of React's core reconciliation and rendering algorithm. It introduces a concurrency model for incremental rendering, enabling interruption and prioritization of tasks. This enhances responsiveness by breaking down work into smaller units, implementing priority scheduling, error boundaries, and improving developer tools, ultimately optimizing the user interface performance in React applications.
