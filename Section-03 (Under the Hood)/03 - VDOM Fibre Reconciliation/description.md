@@ -1,10 +1,10 @@
 # What is "Virtual DOM"?
 
-Virtual DOM is a Programming concept that is used to improve the performance and efficiency of updating the user interface. But,Before goint to Understanding the concept of Virtual DOM, first of all we have to understand the concept of Real DOM. 
+Virtual DOM is a Programming concept that is used to improve the performance and efficiency of updating the user interface. But,Before going to Understanding the concept of Virtual DOM, first of all we have to understand about what is "Real DOM". 
 
 # What is Real DOM?
 
-Browser Provide an API which is commonly known as "DOM API". With the help of this API browser creates a tree like structure called "Document Object Model(DOM)". 
+Browser Provide an API which is commonly known as "DOM API". With the help of this API, browser creates a tree like structure called "Document Object Model(DOM)". To be more precise, the DOM which is created by Browser called "Real DOM".
 
 - Each element in the Document is represented as a Node in the DOM tree.
 
